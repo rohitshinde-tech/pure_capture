@@ -17,6 +17,15 @@ This project is a stylish and responsive **sidebar navigation menu** using **HTM
 
 ---
 
+🚀 Getting Started
+Clone the repository
+git clone https://github.com/rohitshinde-tech/pure_capture.git
+Open the project folder
+cd pure_capture
+Run the project
+
+Simply open index.html in your browser.
+
 ## 🖼️ Preview
 
 ![Preview Screenshot](preview.png) 
